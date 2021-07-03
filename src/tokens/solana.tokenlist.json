@@ -10576,6 +10576,16 @@
         "serumV3Usdc": "6KFs2wUzME8Z3AeWL4HfKkXbtik5zVvebdg5qCxqt4hB"
       }
     }
+    {
+      "chainId": 101,
+      "address": "JA9kGDuSAC2ydZKYruyQGK3Gdi8dNwWecswsRofumsZB",
+      "symbol": "GOBLIN",
+      "name": "GoblinCoin",
+      "decimals": 9,
+      "logoURI": "https://i.pinimg.com/originals/c0/72/42/c07242c54d608a1f7f1230e55be592cf.png",
+      "tags": [],
+      "extensions":{
+     }
   ],
   "version": {
     "major": 0,
